@@ -49,6 +49,8 @@ WebUI.delay(2)
 
 WebUI.setText(findTestObject('Titular/input_Nro.Doc._frmNewidNro'), '1234')
 
+WebUI.delay(2)
+
 WebUI.click(findTestObject('Titular/input_Complemento_frmNewidCompl'))
 
 WebUI.click(findTestObject('Titular/label_Seleccionar'))
