@@ -55,6 +55,8 @@ WebUI.delay(2)
 
 WebUI.click(findTestObject('Titular/label_Seleccionar'))
 
+WebUI.delay(2)
+
 WebUI.click(findTestObject('Titular/li_LA PAZ'))
 
 WebUI.delay(2)
