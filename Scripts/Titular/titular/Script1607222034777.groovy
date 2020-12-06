@@ -45,6 +45,8 @@ WebUI.click(findTestObject('Titular/span_Seleccionar..._ui-icon ui-icon-triangl_
 
 WebUI.click(findTestObject('Titular/li_CEDULA DE IDENTIDAD'))
 
+WebUI.delay(2)
+
 WebUI.setText(findTestObject('Titular/input_Nro.Doc._frmNewidNro'), '1234')
 
 WebUI.click(findTestObject('Titular/input_Complemento_frmNewidCompl'))
@@ -52,6 +54,8 @@ WebUI.click(findTestObject('Titular/input_Complemento_frmNewidCompl'))
 WebUI.click(findTestObject('Titular/label_Seleccionar'))
 
 WebUI.click(findTestObject('Titular/li_LA PAZ'))
+
+WebUI.delay(2)
 
 WebUI.click(findTestObject('Titular/span_Guardar'))
 
