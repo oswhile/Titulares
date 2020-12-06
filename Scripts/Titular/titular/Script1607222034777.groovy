@@ -49,15 +49,9 @@ WebUI.delay(2)
 
 WebUI.setText(findTestObject('Titular/input_Nro.Doc._frmNewidNro'), '1234')
 
-WebUI.delay(2)
-
 //WebUI.click(findTestObject('Titular/input_Complemento_frmNewidCompl_1'))
-
 //WebUI.click(findTestObject('Titular/input_Complemento_frmNewidCompl'))
-
 WebUI.click(findTestObject('Titular/span_Seleccionar..._ui-icon ui-icon-triangle-1-s ui-c'))
-
-WebUI.delay(2)
 
 WebUI.click(findTestObject('Titular/li_LA PAZ'))
 
