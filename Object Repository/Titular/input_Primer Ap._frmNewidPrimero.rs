@@ -3,15 +3,15 @@
    <description></description>
    <name>input_Primer Ap._frmNewidPrimero</name>
    <tag></tag>
-   <elementGuidId>5ec0d308-b895-4f8f-8ebe-a833f4abc3af</elementGuidId>
+   <elementGuidId>478a90c4-4e04-4192-9b41-084cac977e96</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>XPATH</key>
-         <value>//input[@id='frmNew:idPrimero']</value>
-      </entry>
       <entry>
          <key>CSS</key>
          <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='frmNew:idPrimero']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

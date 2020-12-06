@@ -3,15 +3,15 @@
    <description></description>
    <name>input_Ap. Casada_frmNewj_idt450</name>
    <tag></tag>
-   <elementGuidId>9176197e-b403-4ace-b790-d0393d6d3a20</elementGuidId>
+   <elementGuidId>3c9817c5-6888-4e54-a3a1-aa04427a8d1c</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>XPATH</key>
-         <value>//input[@id='frmNew:j_idt450']</value>
-      </entry>
       <entry>
          <key>CSS</key>
          <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='frmNew:j_idt450']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

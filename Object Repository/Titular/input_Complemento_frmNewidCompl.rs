@@ -3,15 +3,15 @@
    <description></description>
    <name>input_Complemento_frmNewidCompl</name>
    <tag></tag>
-   <elementGuidId>e0219db5-2d8e-4d6e-8c7c-4597bdfc0bfa</elementGuidId>
+   <elementGuidId>ec9a6380-0428-45d5-add7-b47f553d80a3</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>XPATH</key>
-         <value>//input[@id='frmNew:idCompl']</value>
-      </entry>
       <entry>
          <key>CSS</key>
          <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='frmNew:idCompl']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

@@ -3,15 +3,15 @@
    <description></description>
    <name>li_CEDULA DE IDENTIDAD</name>
    <tag></tag>
-   <elementGuidId>52561f3f-ace3-4250-962b-3cecf0c4a308</elementGuidId>
+   <elementGuidId>f3b7e5fb-e945-4ddc-abab-a7e21b38ec0d</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>XPATH</key>
-         <value>//li[@id='frmNew:idTipo_1']</value>
-      </entry>
       <entry>
          <key>CSS</key>
          <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='frmNew:idTipo_1']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

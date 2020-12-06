@@ -3,15 +3,15 @@
    <description></description>
    <name>a_Gestin de Titulares</name>
    <tag></tag>
-   <elementGuidId>a8c5362c-04fc-4fdd-bf0a-4387ce7711b8</elementGuidId>
+   <elementGuidId>e09813eb-cd47-4742-a583-b02531a10120</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>XPATH</key>
-         <value>//div[@id='sidebar']/ul/li/ul/li[3]/a</value>
-      </entry>
       <entry>
          <key>CSS</key>
          <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='sidebar']/ul/li/ul/li[3]/a</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

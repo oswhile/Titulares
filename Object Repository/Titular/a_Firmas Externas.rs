@@ -3,15 +3,15 @@
    <description></description>
    <name>a_Firmas Externas</name>
    <tag></tag>
-   <elementGuidId>0479aad7-1b7b-4e3d-a933-45fd4dcb3cf7</elementGuidId>
+   <elementGuidId>6db040e2-3bef-422a-adea-7c134a99237f</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>XPATH</key>
-         <value>//div[@id='sidebar']/ul/li/a</value>
-      </entry>
       <entry>
          <key>CSS</key>
          <value>a.c-sidebar-nav-dropdown-toggle</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='sidebar']/ul/li/a</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

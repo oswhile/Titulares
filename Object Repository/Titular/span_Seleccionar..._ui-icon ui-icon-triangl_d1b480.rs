@@ -3,15 +3,15 @@
    <description></description>
    <name>span_Seleccionar..._ui-icon ui-icon-triangl_d1b480</name>
    <tag></tag>
-   <elementGuidId>7493c6f3-0c27-4d92-803e-3705ebf12fdd</elementGuidId>
+   <elementGuidId>d07df9db-11f3-41ae-9a46-93bf440a8946</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>XPATH</key>
-         <value>//div[@id='frmNew:idTipo']/div[3]/span</value>
-      </entry>
       <entry>
          <key>CSS</key>
          <value>span.ui-icon.ui-icon-triangle-1-s.ui-c</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='frmNew:idTipo']/div[3]/span</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

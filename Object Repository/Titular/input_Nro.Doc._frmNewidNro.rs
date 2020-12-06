@@ -3,15 +3,15 @@
    <description></description>
    <name>input_Nro.Doc._frmNewidNro</name>
    <tag></tag>
-   <elementGuidId>df29cc35-898e-4ed0-b2a8-89fa01bdd9b9</elementGuidId>
+   <elementGuidId>1271f99d-1140-4d8e-8eed-bdffc5220978</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>XPATH</key>
-         <value>//input[@id='frmNew:idNro']</value>
-      </entry>
       <entry>
          <key>CSS</key>
          <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='frmNew:idNro']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

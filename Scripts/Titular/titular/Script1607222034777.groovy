@@ -19,7 +19,7 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('http://localhost:8080/confia/exte/')
+WebUI.navigateToUrl('http://localhost:8282/confia/exte/')
 
 WebUI.click(findTestObject('Titular/a_Firmas Externas'))
 
@@ -27,13 +27,17 @@ WebUI.click(findTestObject('Titular/a_Gestin de Titulares'))
 
 WebUI.click(findTestObject('Titular/span_Nuevo'))
 
+WebUI.click(findTestObject('Titular/input_Nombres_frmNewidNombre'))
+
 WebUI.setText(findTestObject('Titular/input_Nombres_frmNewidNombre'), 'oscar')
+
+WebUI.click(findTestObject('Titular/input_Primer Ap._frmNewidPrimero'))
 
 WebUI.setText(findTestObject('Titular/input_Primer Ap._frmNewidPrimero'), 'oscar')
 
-WebUI.setText(findTestObject('Titular/input_Segundo Ap._frmNewidSegundo'), 'oscar')
+WebUI.click(findTestObject('Titular/input_Segundo Ap._frmNewidSegundo'))
 
-WebUI.setText(findTestObject('Titular/input_Ap. Casada_frmNewj_idt450'), 'oscar')
+WebUI.click(findTestObject('Titular/input_Ap. Casada_frmNewj_idt450'))
 
 WebUI.click(findTestObject('Titular/span_Seleccionar..._ui-icon ui-icon-triangl_d1b480'))
 
@@ -41,15 +45,15 @@ WebUI.click(findTestObject('Titular/li_CEDULA DE IDENTIDAD'))
 
 WebUI.setText(findTestObject('Titular/input_Nro.Doc._frmNewidNro'), '1234')
 
-WebUI.setText(findTestObject('Titular/input_Complemento_frmNewidCompl'), '1')
+WebUI.click(findTestObject('Titular/input_Complemento_frmNewidCompl'))
 
-WebUI.click(findTestObject('Titular/span_Seleccionar..._ui-icon ui-icon-triangl_d1b480_1'))
+WebUI.click(findTestObject('Titular/label_Seleccionar'))
 
 WebUI.click(findTestObject('Titular/li_LA PAZ'))
 
 WebUI.click(findTestObject('Titular/span_Guardar'))
 
-WebUI.click(findTestObject('Titular/td_7'))
+WebUI.click(findTestObject('Titular/td_8'))
 
 WebUI.closeBrowser()
 

@@ -3,15 +3,15 @@
    <description></description>
    <name>input_Nombres_frmNewidNombre</name>
    <tag></tag>
-   <elementGuidId>844f5515-d293-444d-b3f4-b26b9a89dd3b</elementGuidId>
+   <elementGuidId>f006658e-a8bd-4697-848d-53749f21b181</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>XPATH</key>
-         <value>//input[@id='frmNew:idNombre']</value>
-      </entry>
       <entry>
          <key>CSS</key>
          <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='frmNew:idNombre']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

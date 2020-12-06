@@ -3,15 +3,15 @@
    <description></description>
    <name>li_LA PAZ</name>
    <tag></tag>
-   <elementGuidId>203d64a0-9743-4ecc-bf4e-d59ec8d91bb6</elementGuidId>
+   <elementGuidId>b16e2681-e41d-4631-b5f9-c2e7335ad5f5</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>XPATH</key>
-         <value>//li[@id='frmNew:idExp_1']</value>
-      </entry>
       <entry>
          <key>CSS</key>
          <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='frmNew:idExp_1']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

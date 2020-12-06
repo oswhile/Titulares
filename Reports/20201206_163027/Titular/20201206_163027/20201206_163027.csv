@@ -1,0 +1,10 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Titular,Chrome 87.0.4280.88,,,2020-12-06 16:30:32,2020-12-06 16:31:01,"28,567s",FAILED
+,,,,,,,
+Test Cases/Titular/titular,Chrome 87.0.4280.88,,,2020-12-06 16:30:34,2020-12-06 16:31:01,"26,565s",FAILED
+"openBrowser("""")",Chrome 87.0.4280.88,,,2020-12-06 16:30:35,2020-12-06 16:30:40,"5,445s",PASSED
+"navigateToUrl(""http://localhost:8282/confia/exte/"")",Chrome 87.0.4280.88,,,2020-12-06 16:30:40,2020-12-06 16:30:46,"5,637s",PASSED
+"click(findTestObject(""Titular/a_Firmas Externas""))",Chrome 87.0.4280.88,,,2020-12-06 16:30:46,2020-12-06 16:30:46,"0,437s",PASSED
+"click(findTestObject(""Titular/a_Gestin de Titulares""))",Chrome 87.0.4280.88,,,2020-12-06 16:30:46,2020-12-06 16:30:50,"3,244s",PASSED
+"click(findTestObject(""Titular/span_Nuevo""))",Chrome 87.0.4280.88,,,2020-12-06 16:30:50,2020-12-06 16:30:50,"0,364s",PASSED
+"setText(findTestObject(""Titular/input_Nombres_frmNewidNombre""), ""oscar"")",Chrome 87.0.4280.88,,,2020-12-06 16:30:50,2020-12-06 16:30:51,"1,386s",FAILED

@@ -3,15 +3,15 @@
    <description></description>
    <name>span_Guardar</name>
    <tag></tag>
-   <elementGuidId>a16bb15d-62ef-4acc-a155-af667ac2890d</elementGuidId>
+   <elementGuidId>9fddfb0b-6663-47ea-92bc-2b5cf902441d</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>XPATH</key>
-         <value>//button[@id='frmNew:j_idt461']/span[2]</value>
-      </entry>
       <entry>
          <key>CSS</key>
          <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='frmNew:j_idt461']/span[2]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
