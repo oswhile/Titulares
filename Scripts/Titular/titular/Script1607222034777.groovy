@@ -27,6 +27,8 @@ WebUI.click(findTestObject('Titular/a_Gestin de Titulares'))
 
 WebUI.click(findTestObject('Titular/span_Nuevo'))
 
+WebUI.delay(2)
+
 WebUI.click(findTestObject('Titular/input_Nombres_frmNewidNombre'))
 
 WebUI.setText(findTestObject('Titular/input_Nombres_frmNewidNombre'), 'oscar')
