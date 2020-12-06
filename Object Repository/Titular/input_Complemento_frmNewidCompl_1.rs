@@ -13,8 +13,12 @@
          <key>XPATH</key>
          <value>//input[@id='frmNew:idCompl']</value>
       </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'frmNew:idCompl' and @name = 'frmNew:idCompl' and @type = 'text']</value>
+      </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
