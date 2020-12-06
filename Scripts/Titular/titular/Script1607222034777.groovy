@@ -53,7 +53,7 @@ WebUI.delay(2)
 
 //WebUI.click(findTestObject('Titular/input_Complemento_frmNewidCompl'))
 
-WebUI.click(findTestObject('Titular/label_Seleccionar'))
+WebUI.click(findTestObject('Titular/span_Seleccionar..._ui-icon ui-icon-triangle-1-s ui-c'))
 
 WebUI.delay(2)
 
